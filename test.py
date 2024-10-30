@@ -34,6 +34,7 @@ E = np.dot(B, C)
 
 #8
 
+
 SOME = np.sum(E)
 vecteur = np.sum(D,axis=0)
 
